@@ -1,2 +1,2 @@
 # ToDoApp
-Tp du cours git avancée
+Ce projet gère plusieurs tâches
